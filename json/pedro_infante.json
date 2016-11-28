@@ -1,0 +1,20 @@
+{
+    "Title":"Pedro Infante",
+    "ContentType":"movie",
+    "SDPosterUrl":"http://10.0.0.129/roku/posters/pedro_infante.jpg",
+    "HDPosterUrl":"http://10.0.0.129/roku/posters/pedro_infante.jpg",
+    "IsHD":false,
+    "HDBranded":false,
+    "ShortDescriptionLine1":"Pedro Infante",
+    "ShortDescriptionLine2":"",
+    "Description":"Pedro Infante, poster usado para mostrar el uso de una lista de videos en formato json",
+    "Rating":"AA",
+    "Actors":["Pedro Infante"],
+    "StarRating":80,
+    "Length":600,
+    "Categories":["Mexicana","Comedia", "Clasicos"],    
+    "StreamUrls":["http://10.0.0.129/roku/videos/cortos/big_buck_bunny.mov"],
+    "bitrates":[0],
+    "qualities":["SD"],
+    "streamformat":"mp4"
+}

@@ -1,0 +1,38 @@
+{
+    "ContentType":"videolist",
+    "videos":[
+    {
+        "Title":"Big BUck Bunny",
+        "ContentType":"movie",
+        "HDPosterUrl":"http://10.0.0.129/roku/posters/bunny.jpg",
+        "SDPosterUrl":"http://10.0.0.129/roku/posters/bunny.jpg",
+        "Rating":"AA",
+        "StarRating":80,
+        "ReleaseDate":"2011",        
+        "MetaUrl":"http://10.0.0.129/roku/json/big_buck_bunny.json",
+        "Description":"The Big Buck Bunny short video"        
+    },
+    {
+        "Title":"Cantinflas",
+        "ContentType":"movie",
+        "HDPosterUrl":"http://10.0.0.129/roku/posters/cantinflas.jpg",
+        "SDPosterUrl":"http://10.0.0.129/roku/posters/cantinflas.jpg",
+        "Rating":"AA",
+        "StarRating":80,
+        "ReleaseDate":"1950",
+        "MetaUrl":"http://10.0.0.129/roku/json/cantinflas.json",        
+        "Description":"Video de Cantinflas <fororoku.com>"        
+    },
+    {
+        "Title":"Pedro Infante",
+        "ContentType":"movie",
+        "HDPosterUrl":"http://10.0.0.129/roku/posters/pedro_infante.jpg",
+        "SDPosterUrl":"http://10.0.0.129/roku/posters/pedro_infante.jpg",
+        "Rating":"AA",
+        "StarRating":80,
+        "ReleaseDate":"1950",        
+        "MetaUrl":"http://10.0.0.129/roku/json/pedro_infante.json",
+        "Description":"Video de Pedro Infante <fororoku.com>"
+    }
+    ]
+}

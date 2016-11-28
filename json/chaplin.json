@@ -1,0 +1,20 @@
+{
+    "Title":"Chaplin",
+    "ContentType":"movie",
+    "SDPosterUrl":"http://10.0.0.129/roku/posters/chaplin.jpg",
+    "HDPosterUrl":"http://10.0.0.129/roku/posters/chaplin.jpg",
+    "ShortDescriptionLine1":"Chaplin",
+    "Description":"Chaplin, poster usado para mostrar el uso de informacion en formato json",
+    "IsHD":false,
+    "HDBranded":false,    
+    "ShortDescriptionLine2":"",    
+    "Rating":"AA",
+    "Actors":["Charlie Chaplin"],
+    "StarRating":80,
+    "Length":600,
+    "Categories":["Comedia", "Clasicos"],    
+    "StreamUrls":["http://10.0.0.129/roku/videos/cortos/big_buck_bunny.mov"],
+    "bitrates":[0],
+    "qualities":["SD"],
+    "streamformat":"mp4"
+}
